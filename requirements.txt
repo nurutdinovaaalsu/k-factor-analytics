@@ -1,6 +1,0 @@
-streamlit
-pandas
-matplotlib
-seaborn
-plotly==5.20.0
-statsmodels
